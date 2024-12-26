@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 800px;
+    height: 600px;
+    background-image: url(./17695320.gif);
+    margin:auto;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    background-size: cover;
+}
+.container h1 {
+    font-size: 80px;
+    text-align: center;
+    background-image: url(./fire.gif);
+    color: transparent;
+    background-clip: text;
+}
